@@ -17,6 +17,8 @@ The presentation covers the following Git commands and concepts, structured to i
 
 Each topic is presented with animations to enhance understanding, making complex workflows like rebasing or resolving merge conflicts intuitive and engaging.
 
+![chrome-capture-2025-07-29](https://github.com/user-attachments/assets/eb7761d1-0bfe-4243-a4d2-42b5d87e2032)
+
 ## Getting Started
 
 To explore this project, follow these steps:
